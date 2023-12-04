@@ -4,8 +4,6 @@
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/luizdevbr?igshid=OGQ5ZDc2ODk2ZA%3D%3D&utm_source=qr)
 
 ![Thiago GitHub stats](https://github-readme-stats.vercel.app/api?username=devluizbr&show_icons=true&theme=dracula)
-<br>
-![Thiago GitHub stats]([![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devluizbr&layout=pie)](https://github.com/anuraghazra/github-readme-stats))
 
 ## Tecnologias que eu uso no meu dia 
 
