@@ -13,9 +13,6 @@
 
 </div><br>
 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devluizbr&layout=compact)
-
 ![Thiago GitHub stats](https://github-readme-stats.vercel.app/api?username=devluizbr&show_icons=true&theme=dark)
 
 Desenvolvedor comprometido em transformar códigos em inovações. Explorando o mundo digital com entusiasmo! 🚀
